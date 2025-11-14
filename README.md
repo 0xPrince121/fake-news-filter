@@ -88,7 +88,7 @@ Fake New’s Filter/
 
 1. Clone :
    ```bash
-   
+   git clone https://github.com/0xPrince121/fake-news-filter.git
    ```
 
 3. Install Python dependencies :  
